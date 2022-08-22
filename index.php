@@ -9,7 +9,7 @@
 
 </head>
 
-<body class="bg-primary">
+<body class="bg-dark">
 
     <!-- .container start -->
     <div class="container">
@@ -21,11 +21,11 @@
             <div class="col-6 mx-auto">
 
                 <!-- .card start -->
-                <div class="card shadow bg-dark text-secondary rounded-5">
+                <div class="card shadow bg-dark text-warning rounded-5">
 
                     <!-- .card-header start -->
                     <div class="card-header text-center p-5">
-                        <h1 class="display-1 fw-bolder text-primary">Register</h1>
+                        <h1 class="display-1 fw-bolder text-warning">Register</h1>
                         <p class="text-muted my-3">Silahkan masukan email dan kata sandi Anda...</p>
                     </div>
                     <!-- .card-header end -->
@@ -50,7 +50,7 @@
 
                             <hr class="my-4">
 
-                            <button type="submit" class="btn btn-lg btn-primary w-100 fw-bolder py-3">Register</button>
+                            <button type="submit" class="btn btn-lg btn-warning w-100 fw-bolder py-3">Register</button>
 
                         </form>
                         <!-- FORM END -->
